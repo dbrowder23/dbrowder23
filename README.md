@@ -38,3 +38,4 @@ Feel free to reach out for collaboration or just to connect!
 
 	•	Email: dbrowder@asu.edu
 	•	GitHub: github.com/dbrowder23
+	•	GitHub (personal): github.com/twinboi90
